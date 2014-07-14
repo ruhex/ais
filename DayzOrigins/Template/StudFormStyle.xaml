@@ -1,0 +1,14 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <Style x:Key="StudStyle" TargetType="TextBox">        
+        <Setter Property="Background" Value="#FF032E33"/>
+        <Setter Property="FontSize" Value="14"/>
+        <Setter Property="FontFamily" Value="Arial"/>
+        <Setter Property="Foreground" Value="#FFCCCCCC"/>
+        <Setter Property="SelectionBrush" Value="#FF37C61A"/>
+        <Setter Property="BorderThickness" Value="0,0,0,1"/>
+        <Setter Property="VerticalAlignment" Value="Top"/>
+        <Setter Property="HorizontalAlignment" Value="Left"/>
+        <Setter Property="BorderBrush" Value="{x:Null}"/>
+        <Setter Property="SelectionBrush" Value="#FF37C61A"/>        
+    </Style>
+</ResourceDictionary>

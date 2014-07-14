@@ -1,0 +1,170 @@
+D:\Visual Studio 2010\Projects\DayzOrigins\DayzOrigins\bin\Release\DayzOrigins.exe
+D:\Visual Studio 2010\Projects\DayzOrigins\DayzOrigins\bin\Release\DayzOrigins.pdb
+D:\Visual Studio 2010\Projects\DayzOrigins\DayzOrigins\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Visual Studio 2010\Projects\DayzOrigins\DayzOrigins\obj\x86\Release\LogOne.baml
+D:\Visual Studio 2010\Projects\DayzOrigins\DayzOrigins\obj\x86\Release\MainWindow.baml
+D:\Visual Studio 2010\Projects\DayzOrigins\DayzOrigins\obj\x86\Release\SettingsForm.baml
+D:\Visual Studio 2010\Projects\DayzOrigins\DayzOrigins\obj\x86\Release\LogOne.g.cs
+D:\Visual Studio 2010\Projects\DayzOrigins\DayzOrigins\obj\x86\Release\MainWindow.g.cs
+D:\Visual Studio 2010\Projects\DayzOrigins\DayzOrigins\obj\x86\Release\SettingsForm.g.cs
+D:\Visual Studio 2010\Projects\DayzOrigins\DayzOrigins\obj\x86\Release\App.g.cs
+D:\Visual Studio 2010\Projects\DayzOrigins\DayzOrigins\obj\x86\Release\DayzOrigins_MarkupCompile.cache
+D:\Visual Studio 2010\Projects\DayzOrigins\DayzOrigins\obj\x86\Release\DayzOrigins.g.resources
+D:\Visual Studio 2010\Projects\DayzOrigins\DayzOrigins\obj\x86\Release\DayzOrigins.Properties.Resources.resources
+D:\Visual Studio 2010\Projects\DayzOrigins\DayzOrigins\obj\x86\Release\GenerateResource.read.1.tlog
+D:\Visual Studio 2010\Projects\DayzOrigins\DayzOrigins\obj\x86\Release\GenerateResource.write.1.tlog
+D:\Visual Studio 2010\Projects\DayzOrigins\DayzOrigins\obj\x86\Release\DayzOrigins.exe
+D:\Visual Studio 2010\Projects\DayzOrigins\DayzOrigins\obj\x86\Release\DayzOrigins.pdb
+D:\Visual Studio 2010\Projects\DayzOrigins\DayzOrigins\bin\Release\DayzOrigins.exe.config
+E:\1241\DayzOrigins\DayzOrigins\obj\x86\Release\Controls\DB_Settings.baml
+E:\1241\DayzOrigins\DayzOrigins\obj\x86\Release\MainWindow.baml
+E:\1241\DayzOrigins\DayzOrigins\obj\x86\Release\SettingsForm.baml
+E:\1241\DayzOrigins\DayzOrigins\obj\x86\Release\App.baml
+E:\1241\DayzOrigins\DayzOrigins\obj\x86\Release\Controls\DB_Settings.g.cs
+E:\1241\DayzOrigins\DayzOrigins\obj\x86\Release\MainWindow.g.cs
+E:\1241\DayzOrigins\DayzOrigins\obj\x86\Release\SettingsForm.g.cs
+E:\1241\DayzOrigins\DayzOrigins\obj\x86\Release\App.g.cs
+E:\1241\DayzOrigins\DayzOrigins\obj\x86\Release\DayzOrigins_MarkupCompile.cache
+E:\1241\DayzOrigins\DayzOrigins\obj\x86\Release\DayzOrigins.g.resources
+E:\1241\DayzOrigins\DayzOrigins\obj\x86\Release\DayzOrigins.Properties.Resources.resources
+E:\1241\DayzOrigins\DayzOrigins\obj\x86\Release\DayzOrigins.csproj.GenerateResource.Cache
+E:\1241\DayzOrigins\DayzOrigins\obj\x86\Release\DayzOrigins.exe
+E:\1241\DayzOrigins\DayzOrigins\obj\x86\Release\DayzOrigins.pdb
+E:\1241\DayzOrigins\DayzOrigins\bin\Release\DayzOrigins.exe.config
+E:\1241\DayzOrigins\DayzOrigins\bin\Release\DayzOrigins.exe
+E:\1241\DayzOrigins\DayzOrigins\bin\Release\DayzOrigins.pdb
+E:\1241\DayzOrigins\DayzOrigins\bin\Release\MySql.Data.dll
+C:\Users\ASM\Documents\xm\DayzOrigins\DayzOrigins\bin\Release\DayzOrigins.exe.config
+C:\Users\ASM\Documents\xm\DayzOrigins\DayzOrigins\bin\Release\DayzOrigins.exe
+C:\Users\ASM\Documents\xm\DayzOrigins\DayzOrigins\bin\Release\DayzOrigins.pdb
+C:\Users\ASM\Documents\xm\DayzOrigins\DayzOrigins\bin\Release\MySql.Data.dll
+C:\Users\ASM\Documents\xm\DayzOrigins\DayzOrigins\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\ASM\Documents\xm\DayzOrigins\DayzOrigins\obj\x86\Release\Controls\DB_Select.baml
+C:\Users\ASM\Documents\xm\DayzOrigins\DayzOrigins\obj\x86\Release\Controls\DB_Settings.baml
+C:\Users\ASM\Documents\xm\DayzOrigins\DayzOrigins\obj\x86\Release\LogOne.baml
+C:\Users\ASM\Documents\xm\DayzOrigins\DayzOrigins\obj\x86\Release\MainWindow.baml
+C:\Users\ASM\Documents\xm\DayzOrigins\DayzOrigins\obj\x86\Release\SettingsForm.baml
+C:\Users\ASM\Documents\xm\DayzOrigins\DayzOrigins\obj\x86\Release\Simple Styles.baml
+C:\Users\ASM\Documents\xm\DayzOrigins\DayzOrigins\obj\x86\Release\App.baml
+C:\Users\ASM\Documents\xm\DayzOrigins\DayzOrigins\obj\x86\Release\Controls\DB_Select.g.cs
+C:\Users\ASM\Documents\xm\DayzOrigins\DayzOrigins\obj\x86\Release\Controls\DB_Settings.g.cs
+C:\Users\ASM\Documents\xm\DayzOrigins\DayzOrigins\obj\x86\Release\LogOne.g.cs
+C:\Users\ASM\Documents\xm\DayzOrigins\DayzOrigins\obj\x86\Release\MainWindow.g.cs
+C:\Users\ASM\Documents\xm\DayzOrigins\DayzOrigins\obj\x86\Release\SettingsForm.g.cs
+C:\Users\ASM\Documents\xm\DayzOrigins\DayzOrigins\obj\x86\Release\App.g.cs
+C:\Users\ASM\Documents\xm\DayzOrigins\DayzOrigins\obj\x86\Release\DayzOrigins_MarkupCompile.cache
+C:\Users\ASM\Documents\xm\DayzOrigins\DayzOrigins\obj\x86\Release\DayzOrigins.g.resources
+C:\Users\ASM\Documents\xm\DayzOrigins\DayzOrigins\obj\x86\Release\DayzOrigins.Properties.Resources.resources
+C:\Users\ASM\Documents\xm\DayzOrigins\DayzOrigins\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\ASM\Documents\xm\DayzOrigins\DayzOrigins\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\ASM\Documents\xm\DayzOrigins\DayzOrigins\obj\x86\Release\DayzOrigins.exe
+C:\Users\ASM\Documents\xm\DayzOrigins\DayzOrigins\obj\x86\Release\DayzOrigins.pdb
+C:\Users\Mikhail\Documents\svn\DayzOrigins\DayzOrigins\bin\Release\DayzOrigins.exe.config
+C:\Users\Mikhail\Documents\svn\DayzOrigins\DayzOrigins\obj\x86\Release\DayzOrigins.exe
+C:\Users\Mikhail\Documents\svn\DayzOrigins\DayzOrigins\obj\x86\Release\DayzOrigins.pdb
+E:\1241\DayzOrigins\DayzOrigins\obj\x86\Release\DayzOrigins.csprojResolveAssemblyReference.cache
+E:\1241\DayzOrigins\DayzOrigins\obj\x86\Release\Controls\StudForm.baml
+E:\1241\DayzOrigins\DayzOrigins\obj\x86\Release\Template\LeftSelect.baml
+E:\1241\DayzOrigins\DayzOrigins\obj\x86\Release\Template\RightSelect.baml
+E:\1241\DayzOrigins\DayzOrigins\obj\x86\Release\Controls\StudForm.g.cs
+E:\1241\DayzOrigins\DayzOrigins\obj\x86\Release\Template\StudFormStyle.baml
+C:\Users\Mikhail\Documents\Svn\DayzOrigins\DayzOrigins\bin\Release\background.png
+C:\Users\Mikhail\Documents\Svn\DayzOrigins\DayzOrigins\bin\Release\DayzOrigins.exe
+C:\Users\Mikhail\Documents\Svn\DayzOrigins\DayzOrigins\bin\Release\DayzOrigins.pdb
+C:\Users\Mikhail\Documents\Svn\DayzOrigins\DayzOrigins\bin\Release\MySql.Data.dll
+C:\Users\Mikhail\Documents\Svn\DayzOrigins\DayzOrigins\obj\x86\Release\DayzOrigins.csprojResolveAssemblyReference.cache
+C:\Users\Mikhail\Documents\Svn\DayzOrigins\DayzOrigins\obj\x86\Release\Controls\DB_Settings.baml
+C:\Users\Mikhail\Documents\Svn\DayzOrigins\DayzOrigins\obj\x86\Release\Controls\StudForm.baml
+C:\Users\Mikhail\Documents\Svn\DayzOrigins\DayzOrigins\obj\x86\Release\Template\LeftSelect.baml
+C:\Users\Mikhail\Documents\Svn\DayzOrigins\DayzOrigins\obj\x86\Release\MainWindow.baml
+C:\Users\Mikhail\Documents\Svn\DayzOrigins\DayzOrigins\obj\x86\Release\Template\RightSelect.baml
+C:\Users\Mikhail\Documents\Svn\DayzOrigins\DayzOrigins\obj\x86\Release\SettingsForm.baml
+C:\Users\Mikhail\Documents\Svn\DayzOrigins\DayzOrigins\obj\x86\Release\Template\StudFormStyle.baml
+C:\Users\Mikhail\Documents\Svn\DayzOrigins\DayzOrigins\obj\x86\Release\App.baml
+C:\Users\Mikhail\Documents\Svn\DayzOrigins\DayzOrigins\obj\x86\Release\Controls\DB_Settings.g.cs
+C:\Users\Mikhail\Documents\Svn\DayzOrigins\DayzOrigins\obj\x86\Release\Controls\StudForm.g.cs
+C:\Users\Mikhail\Documents\Svn\DayzOrigins\DayzOrigins\obj\x86\Release\MainWindow.g.cs
+C:\Users\Mikhail\Documents\Svn\DayzOrigins\DayzOrigins\obj\x86\Release\SettingsForm.g.cs
+C:\Users\Mikhail\Documents\Svn\DayzOrigins\DayzOrigins\obj\x86\Release\App.g.cs
+C:\Users\Mikhail\Documents\Svn\DayzOrigins\DayzOrigins\obj\x86\Release\DayzOrigins_MarkupCompile.cache
+C:\Users\Mikhail\Documents\Svn\DayzOrigins\DayzOrigins\obj\x86\Release\DayzOrigins.g.resources
+C:\Users\Mikhail\Documents\Svn\DayzOrigins\DayzOrigins\obj\x86\Release\DayzOrigins.Properties.Resources.resources
+C:\Users\Mikhail\Documents\Svn\DayzOrigins\DayzOrigins\obj\x86\Release\DayzOrigins.csproj.GenerateResource.Cache
+D:\1241\DayzOrigins\DayzOrigins\bin\Release\background.png
+D:\1241\DayzOrigins\DayzOrigins\bin\Release\DayzOrigins.exe.config
+D:\1241\DayzOrigins\DayzOrigins\bin\Release\DayzOrigins.exe
+D:\1241\DayzOrigins\DayzOrigins\bin\Release\DayzOrigins.pdb
+D:\1241\DayzOrigins\DayzOrigins\bin\Release\MySql.Data.dll
+D:\1241\DayzOrigins\DayzOrigins\obj\x86\Release\DayzOrigins.csprojResolveAssemblyReference.cache
+D:\1241\DayzOrigins\DayzOrigins\obj\x86\Release\DayzOrigins.csproj.ResolveComReference.cache
+D:\1241\DayzOrigins\DayzOrigins\obj\x86\Release\Controls\DB_Settings.baml
+D:\1241\DayzOrigins\DayzOrigins\obj\x86\Release\Controls\StudForm.baml
+D:\1241\DayzOrigins\DayzOrigins\obj\x86\Release\Template\LeftSelect.baml
+D:\1241\DayzOrigins\DayzOrigins\obj\x86\Release\MainWindow.baml
+D:\1241\DayzOrigins\DayzOrigins\obj\x86\Release\Template\RightSelect.baml
+D:\1241\DayzOrigins\DayzOrigins\obj\x86\Release\SettingsForm.baml
+D:\1241\DayzOrigins\DayzOrigins\obj\x86\Release\Template\StudFormStyle.baml
+D:\1241\DayzOrigins\DayzOrigins\obj\x86\Release\App.baml
+D:\1241\DayzOrigins\DayzOrigins\obj\x86\Release\Controls\DB_Settings.g.cs
+D:\1241\DayzOrigins\DayzOrigins\obj\x86\Release\Controls\StudForm.g.cs
+D:\1241\DayzOrigins\DayzOrigins\obj\x86\Release\MainWindow.g.cs
+D:\1241\DayzOrigins\DayzOrigins\obj\x86\Release\SettingsForm.g.cs
+D:\1241\DayzOrigins\DayzOrigins\obj\x86\Release\App.g.cs
+D:\1241\DayzOrigins\DayzOrigins\obj\x86\Release\DayzOrigins_MarkupCompile.cache
+D:\1241\DayzOrigins\DayzOrigins\obj\x86\Release\DayzOrigins.g.resources
+D:\1241\DayzOrigins\DayzOrigins\obj\x86\Release\DayzOrigins.Properties.Resources.resources
+D:\1241\DayzOrigins\DayzOrigins\obj\x86\Release\DayzOrigins.csproj.GenerateResource.Cache
+D:\1241\DayzOrigins\DayzOrigins\obj\x86\Release\DayzOrigins.exe
+D:\1241\DayzOrigins\DayzOrigins\obj\x86\Release\DayzOrigins.pdb
+C:\Users\Mikhail\Documents\Svn\исправлена группа\DayzOrigins\DayzOrigins\bin\Release\MySql.Data.dll
+C:\Users\Mikhail\Documents\Svn\исправлена группа\DayzOrigins\DayzOrigins\obj\x86\Release\Controls\DB_Settings.baml
+C:\Users\Mikhail\Documents\Svn\исправлена группа\DayzOrigins\DayzOrigins\obj\x86\Release\Controls\StudForm.baml
+C:\Users\Mikhail\Documents\Svn\исправлена группа\DayzOrigins\DayzOrigins\obj\x86\Release\Template\LeftSelect.baml
+C:\Users\Mikhail\Documents\Svn\исправлена группа\DayzOrigins\DayzOrigins\obj\x86\Release\MainWindow.baml
+C:\Users\Mikhail\Documents\Svn\исправлена группа\DayzOrigins\DayzOrigins\obj\x86\Release\Template\RightSelect.baml
+C:\Users\Mikhail\Documents\Svn\исправлена группа\DayzOrigins\DayzOrigins\obj\x86\Release\SettingsForm.baml
+C:\Users\Mikhail\Documents\Svn\исправлена группа\DayzOrigins\DayzOrigins\obj\x86\Release\Template\StudFormStyle.baml
+C:\Users\Mikhail\Documents\Svn\исправлена группа\DayzOrigins\DayzOrigins\obj\x86\Release\App.baml
+C:\Users\Mikhail\Documents\Svn\исправлена группа\DayzOrigins\DayzOrigins\obj\x86\Release\Controls\DB_Settings.g.cs
+C:\Users\Mikhail\Documents\Svn\исправлена группа\DayzOrigins\DayzOrigins\obj\x86\Release\Controls\StudForm.g.cs
+C:\Users\Mikhail\Documents\Svn\исправлена группа\DayzOrigins\DayzOrigins\obj\x86\Release\MainWindow.g.cs
+C:\Users\Mikhail\Documents\Svn\исправлена группа\DayzOrigins\DayzOrigins\obj\x86\Release\SettingsForm.g.cs
+C:\Users\Mikhail\Documents\Svn\исправлена группа\DayzOrigins\DayzOrigins\obj\x86\Release\App.g.cs
+C:\Users\Mikhail\Documents\Svn\исправлена группа\DayzOrigins\DayzOrigins\obj\x86\Release\DayzOrigins.Properties.Resources.resources
+C:\Users\Mikhail\Documents\Svn\исправлена группа\DayzOrigins\DayzOrigins\obj\x86\Release\DayzOrigins.csproj.GenerateResource.Cache
+C:\Users\Mikhail\Documents\Svn\исправлена группа\DayzOrigins\DayzOrigins\obj\x86\Release\Controls\Main_openForm.baml
+C:\Users\Mikhail\Documents\Svn\исправлена группа\DayzOrigins\DayzOrigins\obj\x86\Release\Controls\StudFulInfo.baml
+C:\Users\Mikhail\Documents\Svn\исправлена группа\DayzOrigins\DayzOrigins\obj\x86\Release\Controls\Main_openForm.g.cs
+C:\Users\Mikhail\Documents\Svn\исправлена группа\DayzOrigins\DayzOrigins\obj\x86\Release\Controls\StudFulInfo.g.cs
+C:\Users\Mikhail\Documents\Svn\исправлена группа\DayzOrigins\DayzOrigins\bin\Release\AИС учебная часть.exe.config
+C:\Users\Mikhail\Documents\Svn\исправлена группа\DayzOrigins\DayzOrigins\bin\Release\Doc\DocVoencom.docx
+C:\Users\Mikhail\Documents\Svn\исправлена группа\DayzOrigins\DayzOrigins\bin\Release\Doc\DocOthislit.docx
+C:\Users\Mikhail\Documents\Svn\исправлена группа\DayzOrigins\DayzOrigins\bin\Release\Doc\DocSpravca.docx
+C:\Users\Mikhail\Documents\Svn\исправлена группа\DayzOrigins\DayzOrigins\bin\Release\AИС учебная часть.exe
+C:\Users\Mikhail\Documents\Svn\исправлена группа\DayzOrigins\DayzOrigins\bin\Release\AИС учебная часть.pdb
+C:\Users\Mikhail\Documents\Svn\исправлена группа\DayzOrigins\DayzOrigins\bin\Release\Microsoft.Expression.Drawing.dll
+C:\Users\Mikhail\Documents\Svn\исправлена группа\DayzOrigins\DayzOrigins\bin\Release\Microsoft.Expression.Drawing.xml
+C:\Users\Mikhail\Documents\Svn\исправлена группа\DayzOrigins\DayzOrigins\obj\x86\Release\DayzOrigins.csprojResolveAssemblyReference.cache
+C:\Users\Mikhail\Documents\Svn\исправлена группа\DayzOrigins\DayzOrigins\obj\x86\Release\AboutBox.baml
+C:\Users\Mikhail\Documents\Svn\исправлена группа\DayzOrigins\DayzOrigins\obj\x86\Release\Controls\DocSpravca.baml
+C:\Users\Mikhail\Documents\Svn\исправлена группа\DayzOrigins\DayzOrigins\obj\x86\Release\Controls\DocOthislenie.baml
+C:\Users\Mikhail\Documents\Svn\исправлена группа\DayzOrigins\DayzOrigins\obj\x86\Release\Controls\DocVoencom.baml
+C:\Users\Mikhail\Documents\Svn\исправлена группа\DayzOrigins\DayzOrigins\obj\x86\Release\DocGenerationForm.baml
+C:\Users\Mikhail\Documents\Svn\исправлена группа\DayzOrigins\DayzOrigins\obj\x86\Release\DocPage.baml
+C:\Users\Mikhail\Documents\Svn\исправлена группа\DayzOrigins\DayzOrigins\obj\x86\Release\GroupUp.baml
+C:\Users\Mikhail\Documents\Svn\исправлена группа\DayzOrigins\DayzOrigins\obj\x86\Release\Simple Styles.baml
+C:\Users\Mikhail\Documents\Svn\исправлена группа\DayzOrigins\DayzOrigins\obj\x86\Release\AboutBox.g.cs
+C:\Users\Mikhail\Documents\Svn\исправлена группа\DayzOrigins\DayzOrigins\obj\x86\Release\Controls\DocSpravca.g.cs
+C:\Users\Mikhail\Documents\Svn\исправлена группа\DayzOrigins\DayzOrigins\obj\x86\Release\Controls\DocOthislenie.g.cs
+C:\Users\Mikhail\Documents\Svn\исправлена группа\DayzOrigins\DayzOrigins\obj\x86\Release\Controls\DocVoencom.g.cs
+C:\Users\Mikhail\Documents\Svn\исправлена группа\DayzOrigins\DayzOrigins\obj\x86\Release\DocGenerationForm.g.cs
+C:\Users\Mikhail\Documents\Svn\исправлена группа\DayzOrigins\DayzOrigins\obj\x86\Release\DocPage.g.cs
+C:\Users\Mikhail\Documents\Svn\исправлена группа\DayzOrigins\DayzOrigins\obj\x86\Release\GroupUp.g.cs
+C:\Users\Mikhail\Documents\Svn\исправлена группа\DayzOrigins\DayzOrigins\obj\x86\Release\AИС учебная часть_MarkupCompile.cache
+C:\Users\Mikhail\Documents\Svn\исправлена группа\DayzOrigins\DayzOrigins\obj\x86\Release\AИС учебная часть.g.resources
+C:\Users\Mikhail\Documents\Svn\исправлена группа\DayzOrigins\DayzOrigins\obj\x86\Release\AИС учебная часть.exe
+C:\Users\Mikhail\Documents\Svn\исправлена группа\DayzOrigins\DayzOrigins\obj\x86\Release\AИС учебная часть.pdb
+C:\Users\Mikhail\Documents\Svn\исправлена группа\DayzOrigins\DayzOrigins\bin\Release\AИС учебная часть.exe.manifest
+C:\Users\Mikhail\Documents\Svn\исправлена группа\DayzOrigins\DayzOrigins\bin\Release\AИС учебная часть.application
+C:\Users\Mikhail\Documents\Svn\исправлена группа\DayzOrigins\DayzOrigins\obj\x86\Release\AИС учебная часть.exe.manifest
+C:\Users\Mikhail\Documents\Svn\исправлена группа\DayzOrigins\DayzOrigins\obj\x86\Release\AИС учебная часть.application

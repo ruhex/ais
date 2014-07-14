@@ -1,0 +1,125 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>DayzOrigins</name>
+    </assembly>
+    <members>
+        <member name="T:DayzOrigins.DB_Settings">
+            <summary>
+            Interaction logic for DB_Settings.xaml
+            </summary>
+            <summary>
+            DB_Settings
+            </summary>
+        </member>
+        <member name="M:DayzOrigins.DB_Settings.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:DayzOrigins.SettingsForm">
+            <summary>
+            Interaction logic for SettingsForm.xaml
+            </summary>
+            <summary>
+            SettingsForm
+            </summary>
+        </member>
+        <member name="M:DayzOrigins.SettingsForm.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:DayzOrigins.Main_openForm">
+            <summary>
+            Interaction logic for Main_openForm.xaml
+            </summary>
+            <summary>
+            Main_openForm
+            </summary>
+        </member>
+        <member name="M:DayzOrigins.Main_openForm.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:DayzOrigins.StudFulInfo">
+            <summary>
+            Interaction logic for StudFulInfo.xaml
+            </summary>
+            <summary>
+            StudFulInfo
+            </summary>
+        </member>
+        <member name="M:DayzOrigins.StudFulInfo.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:DayzOrigins.Controls.StudForm">
+            <summary>
+            StudForm
+            </summary>
+        </member>
+        <member name="M:DayzOrigins.Controls.StudForm.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:DayzOrigins.Properties.Resources">
+            <summary>
+              Класс ресурсов со строгим типом для поиска локализованных строк и пр.
+            </summary>
+        </member>
+        <member name="P:DayzOrigins.Properties.Resources.ResourceManager">
+            <summary>
+              Возврат кэшированного экземпляра ResourceManager, используемого этим классом.
+            </summary>
+        </member>
+        <member name="P:DayzOrigins.Properties.Resources.Culture">
+            <summary>
+              Переопределяет свойство CurrentUICulture текущего потока для всех
+              подстановки ресурсов с помощью этого класса ресурсов со строгим типом.
+            </summary>
+        </member>
+        <member name="T:DayzOrigins.MainWindow">
+            <summary>
+            Логика взаимодействия для MainWindow.xaml
+            </summary>
+            <summary>
+            MainWindow
+            </summary>
+        </member>
+        <member name="M:DayzOrigins.MainWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:DayzOrigins.App">
+            <summary>
+            Логика взаимодействия для App.xaml
+            </summary>
+        </member>
+        <member name="M:DayzOrigins.Date.GetDate">
+            <summary>
+            Возрашает текущую дату компьютера
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="T:WpfApplication1.App">
+            <summary>
+            App
+            </summary>
+        </member>
+        <member name="M:WpfApplication1.App.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="M:WpfApplication1.App.Main">
+            <summary>
+            Application Entry Point.
+            </summary>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,33 @@
+﻿<UserControl
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+	xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+	mc:Ignorable="d"
+	x:Class="DayzOrigins.Main_openForm"
+	x:Name="UserControl"
+	d:DesignWidth="640" d:DesignHeight="480" Width="Auto" Height="Auto">
+
+	<Grid x:Name="LayoutRoot" KeyDown="LayoutRoot_KeyDown">
+		<Grid.Background>
+            <ImageBrush ImageSource="/AИС учебная часть;component/background.jpg"/>
+		</Grid.Background>
+		<Grid x:Name="grid_opa" Margin="339,209,317,194" Height="160" Background="Black" Opacity="0.16" Width="290" HorizontalAlignment="Center" VerticalAlignment="Center">
+			<Button Content="DB" HorizontalAlignment="Right" Height="25" VerticalAlignment="Top" Width="29.5" Opacity="0.995" Click="Button_Click" Margin="0,8,8,0" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="White"/>
+		</Grid>
+		<Grid Margin="339,209,317,194" Width="290" Height="160" HorizontalAlignment="Center" VerticalAlignment="Center">
+			<Grid.RowDefinitions>
+				<RowDefinition Height="0.2*"/>
+				<RowDefinition Height="0.188*"/>
+				<RowDefinition Height="0.168*"/>
+				<RowDefinition Height="0.175*"/>
+				<RowDefinition Height="0.269*"/>
+			</Grid.RowDefinitions>
+			<TextBlock Margin="93.247,8,93.247,1" TextWrapping="Wrap" Foreground="Black" FontSize="16" Width="103" Height="23"><Run Language="ru-ru" Text="Авторизация"/><Run Text=": "/></TextBlock>
+			<TextBlock Margin="19.416,0,0,7" TextWrapping="Wrap" Width="38" Foreground="Black" Grid.Row="2" HorizontalAlignment="Left" Height="20"><Run Language="ru-ru" Text="Логин"/><Run Text=": "/></TextBlock>
+			<TextBlock Margin="19.416,3.627,0,6.413" TextWrapping="Wrap" Width="46" Foreground="Black" HorizontalAlignment="Left" Grid.Row="3" Height="18"><Run Language="ru-ru" Text="Пароль"/><Run Text=": "/></TextBlock>
+			<TextBox x:Name="user_login" Margin="77.79,2.254,19.21,6.88" TextWrapping="Wrap" Background="{x:Null}" BorderBrush="#FFF7F7F7" Grid.Row="2" Width="193" FontFamily="Calibri"/>
+			<PasswordBox x:Name="user_pass" Margin="77.79,4.627,19.21,6.413" Background="{x:Null}" BorderBrush="#FFF7F7F7" Grid.Row="3" Width="193" Height="17" FontFamily="Segoe"/>
+		</Grid>
+	</Grid>
+</UserControl>
